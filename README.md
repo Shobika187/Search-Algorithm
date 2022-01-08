@@ -106,8 +106,7 @@ else:
 ## Sample Input and Output
 ![GitHub Logo](.//img1.png)
 ![GitHub Logo](.//img2.png)
-![GitHub Logo](.//img3.png)
-
+![GitHub Logo](.//img3.pn
 
 
 
